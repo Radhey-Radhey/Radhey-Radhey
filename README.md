@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Radhey-Radhey aka Aditya Pratap Singh
 - 👀 I’m interested in bug bounty, penetration testing and in digital forensics
-- 🌱 I’m currently learning a cyber securoty and digital forensics
+- 👨‍💻 I am also a software developer
+- 👨🏼‍💼 I am a network marketer
+- 🌱 I’m currently learning a cyber security and digital forensics
 - 💞️ I’m looking to collaborate on cyber security and digital forensics projects
 - 📫 How to reach me link https://linktr.ee/adityapratapsingh
 
