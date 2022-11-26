@@ -4,7 +4,7 @@
 - 👨🏼‍💼 I am a network marketer
 - 🌱 I’m currently learning a cyber security and digital forensics
 - 💞️ I’m looking to collaborate on cyber security and digital forensics projects
-- 📫 How to reach me link https://linktr.ee/adityapratapsingh
+- 📫 How to reach me link linktr.ee/KuwarAPNSingh
 
 <!---
 Radhey-Radhey/Radhey-Radhey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
