@@ -4,7 +4,7 @@
 <img align="right" alt="Hacking" src="https://github.com/Radhey-Radhey/Radhey-Radhey/blob/main/758X.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhey-radhey&label=Profile%20views&color=0e75b6&style=flat" alt="radhey-radhey" /> </p>
 
-<p align="left"> <a href="https://twitter.com/radhey_radhey_1" target="blank"><img src="https://img.shields.io/twitter/follow/	radhey_radhey_1?logo=twitter&style=for-the-badge" alt="radhey_radhey_1" /></a> </p>
+
 
 - 🔭 I’m currently working on [NFT MarketPlace](https://github.com/Radhey-Radhey/NFTMarketplace)
 
