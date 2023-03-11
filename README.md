@@ -1,7 +1,8 @@
+![logo]( https://github.com/Radhey-Radhey/Radhey-Radhey/blob/main/for_github.png)
 <h1 align="center">Hi 👋, I'm Radhey-Radhey aka Aditya Pratap Singh</h1>
 <h3 align="center">A passionate Cyber Security Engineer and Blockchain Developer</h3>
 
-<img align="right" alt="Hacking" src="https://github.com/Radhey-Radhey/Radhey-Radhey/blob/main/758X.gif">
+<img align="right" alt="Hacking" width="300" src="https://github.com/Radhey-Radhey/Radhey-Radhey/blob/main/758X.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhey-radhey&label=Profile%20views&color=0e75b6&style=flat" alt="radhey-radhey" /> </p>
 
 
